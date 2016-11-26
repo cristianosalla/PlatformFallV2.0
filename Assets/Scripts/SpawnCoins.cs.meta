@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: d50a3971396664c48bdd0f3d6ea25b2b
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - coin: {fileID: 103306, guid: 44814be2427b9054f8421ba4fdfa4308, type: 2}
+  - snake_pos: {instanceID: 0}
+  - snake: {fileID: 163632, guid: 78bd9bc18ba5f204c8e95cf8e89a383f, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
